@@ -1,1 +1,9 @@
-# Tele
+#EXTM3U
+#EXTINF:-1,ES: LA 1
+https://z949shw7qx.azcdn728.net:8443/hls/12fxk.m3u8?s=0j3hOy1aS679e11mVgw9Cw&e=1626892725
+#EXTINF:-1,ES: LA 2 
+https://z949shw7qx.azcdn728.net:8443/hls/12fxk.m3u8?s=VW5YIEuBJK-Ucr79Xj687A&e=1626913197
+#EXTINF:-1,ES: LA3
+https://z949shw7qx.azcdn728.net:8443/hls/xi6ufvw.m3u8?s=0tfKt72xoZ30qyzZwojelg&e=1626913301
+#EXTINF:-1,ES: LA4
+https://z949shw7qx.azcdn728.net:8443/hls/sbcxrbz3l1.m3u8?s=MiBBC6H_ox7IRQvqEzIi4Q&e=1626913371
