@@ -1,12 +1,1083 @@
-
 #EXTM3U
-#EXTINF:-1,ES | DISCOVERY CHANEL
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CtEEu3knWBQA7m8-gI5q_hmZLi_9imHytAKPcDQb7t4Q2hgFvEJHhkI23oXWboG8tOi-mQ04rvEzYnrZ0QIV2ZIiD5LFSeA_019goZ9I_DOlIi-pRpR1CQgku1QIdNxyTdUYHgeoFVqwTJOQ-WBKg8z9eRwECHUYtl-KwT2clkxkoc3KiRS5Dyh0mB6LptApKeOxHCE4MFTasdPQb2AVWiU_dT4-E5LNHuC5h40wVui60NUi8U20XmPqSCjc8HLdAUA4mHW8fP891g-H1hTRQVYLzOZU581_vzy4yLr0vGPdLFxQRAhtAAgXj18sSTR6v6nMvHUZrTtgMHqU2TnNtJhaOw9A8y3PhwCsImPAIsdEKfiAOmLkCU0QR-tSorm0gd67g80i8Fn_dJxrOZIysJMxO5BdpZW_3sfDjzfloz3pe6ZSGuAbnfg6iZbYlP-B1PGqkURvv9arvDFrEqxcK_zoJyxMDah-68YNoc790bisdUkeCS5c7phNyIAvmIjW-qC0M7MrgdjOPaNsgVrlfTv2pNCaeV_IKxXWo9XVP2USPj07uBe7zepi5xCjcTVqu8LSXwGFlhCwotMPbXPUpM1rVaFN8pt-0avqkkIcnFKFRHSZnxsmIVzRoJfQorB46_BnG6WbIA1Cnux4kgQ6uFLNU4ap6UtBgDn0a_D9qk2YlDU0UgdLY32XL0EDxku42S5hGnj3LL1eoQPSaZ5uMBlMVtovbU-I8IyWOFfHqQWukhOt_4sBNAK45AGw34-GMc-2hnAmn2Wn0I46Nudmy99toKESEKRMRi8QGumrtxA8eTjflekaDADJowxl6DJYf7UT8A.m3u8
-#EXTINF:-1,ES | NATIONAL GEOGRAPHY
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CtQEAnJ_aLuCrqFXDMd0OKb5oGOWLw7woe5kpm-Prf9-C52HFjn6Fzplb0t04YCEiUDOD77jY8nuGIt3z3x5UUp6ICpsy_rRVmaqp72UAhbiHGu2h1eLP9KRXzAn-Z-dChmWcmTyZk11gRXH3HPrQbT0weiGpB03zO9Z_otxRP6mq0qPqVi7kDhqNIs9KCpK7RMmYKg9E4DBc1DoU5bPPfnqWqry0w3Ulp_LktXLzlDLolHwi_402Dv34q-v75KKk0q-o4rpwZnPX9RKO3UH4_qCcd-IAJW0RzoKJHvMOM7M8IE4P-ePC9izcDdmCYD_YMScLkkK8GMat71rOb6DKZYJuhzhaRwcwhB9ZirjYez2iYDdEc1Dv6yd0q8braRHWHHuQlFHChU2JFQticApnmTr2PRPZQdH6igf8KaO-w0gsIIQBGkQgol16fu7Dp_Xwr-eeezNtqcPIXrn_elajK0BKGKD13MRRj0lKa2qBvV-nSRuNlx7IZ-CCA74jcV9EnsjeZsK0SPZcq8nDk4l3EadtU7_3935aOhdTi84hNl4U2WU8_N8SOQMDlCGXQTNnPi9fIYNiJoWVKQhG8Dow51uoH5Jxfg3WMZgK5lRgO2V9vgLglkd9o5Jcul4R2jo6qv7-lG6VqKUk3_GK8MwwwGyKTEO5h0zAngY9aykl2LqooBFrbGD-FUAIJ6mmV4xJsThmZXaaEWtKFTb0qcFLWRHf3ycuc_5eCZt2EOeDtOldj-RpzQxRsLlxhuLlxxCijHTIGC6Lmy93jWmxlqsSmRBWm54JCESEK1TuQxmF5RV0pNXs2-vNG0aDM2KV7sCyLe2AwsavA.m3u8
-#EXTINF:-1,ES | HISTORRY1
-https://usher.ttvnw.net/api/channel/hls/vc_bt5.m3u8?allow_source=true&fast_bread=true&p=3334121&play_session_id=faeab34eb5dd25bdb12f287a2ac4bf46&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=2d65d8199153e1ceef40392e79232411631f408c&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22vc_bt5%22%2C%22channel_id%22%3A706860502%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%223ec6a3d658702016%22%2C%22expires%22%3A1627060265%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2277.224.19.121%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.4.0
-#EXTINF:-1,ES | ANIMAL PLANET
-https://vsd63.mycdn.me:443/hls/1554107206355.m3u8/sig/EytEiw-4AeI/expires/1627145678019/srcIp/77.224.19.121/urls/45.136.22.62/clientType/0/srcAg/CHROME_ANDROID_TABLET/mid/2913735286483/1554107206355_high/index.m3u8
-#EXTINF:-1,ES | DISCOVERY TURBO
-https://vsd90.mycdn.me:443/hls/1554111531731.m3u8/sig/pKx8iswKKo8/expires/1627145902286/srcIp/77.224.19.121/urls/45.136.22.53/clientType/0/srcAg/CHROME_ANDROID_TABLET/mid/2913738628819/1554111531731_high/index.m3u8
+#EXTINF:-1,|ES| La 1 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21043.ts
+#EXTINF:-1,|ES| La 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/653.ts
+#EXTINF:-1,|ES| La 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/654.ts
+#EXTINF:-1,|ES| Antena 3 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21040.ts
+#EXTINF:-1,|ES| Antena 3 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/652.ts
+#EXTINF:-1,|ES| Cuatro FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21029.ts
+#EXTINF:-1,|ES| CUATRO HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/3846.ts
+#EXTINF:-1,|ES| TeleCinco FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21002.ts
+#EXTINF:-1,|ES| Telecinco HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/677.ts
+#EXTINF:-1,|ES| La Sexta FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21022.ts
+#EXTINF:-1,|ES| La Sexta HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/655.ts
+#EXTINF:-1,|ES|  7 Murcia
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/30944.ts
+#EXTINF:-1,|ES|  Alcarria TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/30948.ts
+#EXTINF:-1,|ES|  Mega HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/32748.ts
+#EXTINF:-1,|ES| 24HORAS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10082.ts
+#EXTINF:-1,|ES| A3SERIES HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10083.ts
+#EXTINF:-1,|ES| AMC HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10084.ts
+#EXTINF:-1,|ES| ANDALUCIA TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10085.ts
+#EXTINF:-1,|ES| ARAGON TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10086.ts
+#EXTINF:-1,|ES| ATRESERIES FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21039.ts
+#EXTINF:-1,|ES| AXN HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/650.ts
+#EXTINF:-1,|ES| AXN White HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/651.ts
+#EXTINF:-1,|ES| BE MAD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/30945.ts
+#EXTINF:-1,|ES| C ESTRELLAS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2592.ts
+#EXTINF:-1,|ES| Canal 24 Horas
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/667.ts
+#EXTINF:-1,|ES| COSMOS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10092.ts
+#EXTINF:-1,|ES| DE CASA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6330.ts
+#EXTINF:-1,|ES| DIVINITY HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10094.ts
+#EXTINF:-1,|ES| DKISS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10095.ts
+#EXTINF:-1,|ES| ENERGY HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10097.ts
+#EXTINF:-1,|ES| FDF HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10104.ts
+#EXTINF:-1,|ES| M Vamos
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/12479.ts
+#EXTINF:-1,|ES| NEOX HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2614.ts
+#EXTINF:-1,|ES| NOVA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2616.ts
+#EXTINF:-1,|ES| SOMOS FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/79556.ts
+#EXTINF:-1,|ES| TELENOVELAS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2605.ts
+#EXTINF:-1,|ES| TV Galicia
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/62504.ts
+#EXTINF:-1,|ES| XTRM
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/53505.ts
+#EXTINF:-1,|ES|  Andorra-tv
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113369.ts
+#EXTINF:-1,|ES|  Bon-dia-tv HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113365.ts
+#EXTINF:-1,|ES| El Toro TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116942.ts
+#EXTINF:-1,|ES|  Canal 25 Barbastro
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113343.ts
+#EXTINF:-1,|ES|  Castilla-la-mancha tv
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113370.ts
+#EXTINF:-1,|ES| Canal Extremadura Sat
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116940.ts
+#EXTINF:-1,|ES|  Hamaika UHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113368.ts
+#EXTINF:-1,|ES|  Huesca TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113362.ts
+#EXTINF:-1,|ES|  Lancelot TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113364.ts
+#EXTINF:-1,|ES|  La Voz 24h
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113352.ts
+#EXTINF:-1,|ES|  Mirame TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113371.ts
+#EXTINF:-1,|ES|  Onda Cádiz
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113344.ts
+#EXTINF:-1,|ES|  Popular TV Melilla
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113355.ts
+#EXTINF:-1,|ES|  Sevilla TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113367.ts
+#EXTINF:-1,|ES|  Sophia TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113353.ts
+#EXTINF:-1,|ES|  Televisió de Girona
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113372.ts
+#EXTINF:-1,|ES|  Televisión de Galicia América
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113346.ts
+#EXTINF:-1,|ES|  Televisión de Galicia Europa
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113348.ts
+#EXTINF:-1,|ES|  TVG 2
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113360.ts
+#EXTINF:-1,|ES|  TV GALICIA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113374.ts
+#EXTINF:-1,|ES|  TVG Cultural
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113358.ts
+#EXTINF:-1,|ES| TVG Europa
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116948.ts
+#EXTINF:-1,|ES|  TVG Evento 1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113356.ts
+#EXTINF:-1,|ES|  TVG Infantil
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113359.ts
+#EXTINF:-1,|ES|  TVG Momento
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113361.ts
+#EXTINF:-1,|ES|  TVG Musigal
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113357.ts
+#EXTINF:-1,|ES|  Urola Telebista
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113349.ts
+#EXTINF:-1,|ES| 7 R. De Murcia es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143183.ts
+#EXTINF:-1,|ES| 25 TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143200.ts
+#EXTINF:-1,|ES|  Alcarria TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143197.ts
+#EXTINF:-1,|ES| Bailen TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143171.ts
+#EXTINF:-1,|ES| Betevé es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143184.ts
+#EXTINF:-1,|ES| Canal 45 TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143195.ts
+#EXTINF:-1,|ES| Canal 2000 La Solana es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143168.ts
+#EXTINF:-1,|ES| Canal Capital Colombia es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143180.ts
+#EXTINF:-1,|ES| Condavisión es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143193.ts
+#EXTINF:-1,|ES| Dejate De Historias TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143204.ts
+#EXTINF:-1,|ES| El Toro TV FHD es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143199.ts
+#EXTINF:-1,|ES| ETB 2 es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143189.ts
+#EXTINF:-1,|ES| Extrema TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143178.ts
+#EXTINF:-1,|ES| Hollywood FHD es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143214.ts
+#EXTINF:-1,|ES| Hollywood SD es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143215.ts
+#EXTINF:-1,|ES|M. Fest HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149964.ts
+#EXTINF:-1,|ES| Iberalia TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143201.ts
+#EXTINF:-1,|ES| Lebrija TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143192.ts
+#EXTINF:-1,|ES| Levante TV FHD es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143202.ts
+#EXTINF:-1,|ES| Marbella TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143191.ts
+#EXTINF:-1,|ES| Mirame TV FHD es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143177.ts
+#EXTINF:-1,|ES| Movistar Oscars es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143216.ts
+#EXTINF:-1,|ES| Xtrm FHD es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143203.ts
+#EXTINF:-1,|ES| Norte Visión Music es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143187.ts
+#EXTINF:-1,|ES| TeleSur Venezuela es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143188.ts
+#EXTINF:-1,|ES| TEVE4 es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143179.ts
+#EXTINF:-1,|ES| TV Canaria es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143169.ts
+#EXTINF:-1,|ES| UD Las Palmas TV es
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/143176.ts
+#EXTINF:-1,|ES| NETFLIX ACTION FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77053.ts
+#EXTINF:-1,|ES| NETFLIX BOX OFFICE FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77052.ts
+#EXTINF:-1,|ES| NETFLIX COMEDY FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77051.ts
+#EXTINF:-1,|ES| NETFLIX DRAMA FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77050.ts
+#EXTINF:-1,|ES| NETFLIX HORROR FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77049.ts
+#EXTINF:-1,|ES| NETFLIX KIDS FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77046.ts
+#EXTINF:-1,|ES| NETFLIX MOVIES FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77048.ts
+#EXTINF:-1,|ES| NETFLIX THRILLER FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/77047.ts
+#EXTINF:-1,|ES| Netflix Action 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146105.ts
+#EXTINF:-1,|ES| Netflix Box Office 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146106.ts
+#EXTINF:-1,|ES| Netflix Comedy 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146107.ts
+#EXTINF:-1,|ES| Netflix Discovery 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146108.ts
+#EXTINF:-1,|ES| Netflix Drama 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146109.ts
+#EXTINF:-1,|ES| Netflix Horror 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146110.ts
+#EXTINF:-1,|ES| Netflix Kids 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146111.ts
+#EXTINF:-1,|ES| Netflix Movies 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146112.ts
+#EXTINF:-1,|ES| Netflix Thriller 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/146113.ts
+#EXTINF:-1,|Daz| Dazn F1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89960.ts
+#EXTINF:-1,|Daz| Daznt 1   (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21044.ts
+#EXTINF:-1,|Daz| Daznt 2 (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/65000.ts
+#EXTINF:-1,|DAZ| Daznt 3 (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/118928.ts
+#EXTINF:-1,|Daz| Dazn 4 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89961.ts
+#EXTINF:-1,|Daz| Dazn 5 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89962.ts
+#EXTINF:-1,|Daz| Dazn 6 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89963.ts
+#EXTINF:-1,|Daz| Dazn 7 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89964.ts
+#EXTINF:-1,|Daz| Dazn 8 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89965.ts
+#EXTINF:-1,|Daz| Dazn 9 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89966.ts
+#EXTINF:-1,|Daz| Dazn 10 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89967.ts
+#EXTINF:-1,|Daz| Dazn 11 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89968.ts
+#EXTINF:-1,|Daz| Dazn 12 HD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89969.ts
+#EXTINF:-1,|Daz| Dazn 1  English  ( Only on Event)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/32747.ts
+#EXTINF:-1,|Daz| Dazn 2  English  ( Only on Event)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/32245.ts
+#EXTINF:-1,|ES| Toros TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/669.ts
+#EXTINF:-1,|ES| A.E
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2586.ts
+#EXTINF:-1,|ES| DMAX HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10096.ts
+#EXTINF:-1,|ES| SUNDANCE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2610.ts
+#EXTINF:-1,|ES| CLASSICA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2613.ts
+#EXTINF:-1,|ES| MTV ESPANA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2599.ts
+#EXTINF:-1,|ES| MTV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10119.ts
+#EXTINF:-1,|ES| MEZZO LIVE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2611.ts
+#EXTINF:-1,|ESP| TOROS TV FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21000.ts
+#EXTINF:-1,|ESP| AXN WHITE  FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21037.ts
+#EXTINF:-1,|ESP| AXN FFHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21038.ts
+#EXTINF:-1,|ESP| AMC FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21041.ts
+#EXTINF:-1,|ES| 25 TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113878.ts
+#EXTINF:-1,|ES| 28 KANALA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113871.ts
+#EXTINF:-1,|ES| 101 Tele Antequera
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113846.ts
+#EXTINF:-1,|ES| 101TV Málaga
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113865.ts
+#EXTINF:-1,|ES| ALTERNATIVA TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113889.ts
+#EXTINF:-1,|ES| ATV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113868.ts
+#EXTINF:-1,|ES| Bailén TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113853.ts
+#EXTINF:-1,|ES| BON DIA CATALUÑA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113881.ts
+#EXTINF:-1,|ES| C33 MADRID HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113876.ts
+#EXTINF:-1,|ES| Canal 45 TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113863.ts
+#EXTINF:-1,|ES| Canal Coín
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113847.ts
+#EXTINF:-1,|ES| Canal Doñana
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113859.ts
+#EXTINF:-1,|ES| CANAL SAN ROQUE
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113888.ts
+#EXTINF:-1,|ES| CANAL SIERRA DE CADIZ FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113862.ts
+#EXTINF:-1,|ES| CMM
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113886.ts
+#EXTINF:-1,|ES| CostadelSol TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113855.ts
+#EXTINF:-1,|ES| Diez TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113857.ts
+#EXTINF:-1,|ES| DISTRITO TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113875.ts
+#EXTINF:-1,|ES| Fion TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113854.ts
+#EXTINF:-1,|ES| IBIZA GLOBAL TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113877.ts
+#EXTINF:-1,|ES| Islatel
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113849.ts
+#EXTINF:-1,|ES| LEVANTE TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113870.ts
+#EXTINF:-1,|ES| LOGOS TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113873.ts
+#EXTINF:-1,|ES| M95 Marbella
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113864.ts
+#EXTINF:-1,|ES| MOLA TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113879.ts
+#EXTINF:-1,|ES| MTMAD 24H FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113866.ts
+#EXTINF:-1,|ES| RM7
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113872.ts
+#EXTINF:-1,|ES| Sal Televisión
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113852.ts
+#EXTINF:-1,|ES| SOLIDARIA TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113874.ts
+#EXTINF:-1,|ES| TELEARANDA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113883.ts
+#EXTINF:-1,|ES| TeleGilena
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113851.ts
+#EXTINF:-1,|ES| TENERIFE 2030
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113887.ts
+#EXTINF:-1,|ES| TRECE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113867.ts
+#EXTINF:-1,|ES| Tuya La Janda TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113860.ts
+#EXTINF:-1,|ES| TV3
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113882.ts
+#EXTINF:-1,|ES| TV MUNICIPAL CORDOBA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/113890.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115905.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 2
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115906.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 3
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115907.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 4
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115908.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 5
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115909.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 6
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115910.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 7
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115911.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 8
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115912.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 9
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115913.ts
+#EXTINF:-1,|ES| DMTV Boxoffice 10
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/115914.ts
+#EXTINF:-1,|ES| beIN La Liga 4K
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/28937.ts
+#EXTINF:-1,|ES| beIN LA LIGA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21011.ts
+#EXTINF:-1,|ES| beIN LA LIGA FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21036.ts
+#EXTINF:-1,|ES| beIN LA LIGA 1  HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10148.ts
+#EXTINF:-1,|ES| beIN LA LIGA 2  HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/61586.ts
+#EXTINF:-1,|ES| beIN LA LIGA 3 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/61589.ts
+#EXTINF:-1,|ES| beIN LA LIGA 4 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/118929.ts
+#EXTINF:-1,|ES|  beIN Sports ES
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/31514.ts
+#EXTINF:-1,|ES| beIN Sports FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21034.ts
+#EXTINF:-1,|ES| beIN Sports FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21035.ts
+#EXTINF:-1,|ES| La Liga hd
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/638.ts
+#EXTINF:-1,|ES| La Liga HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10107.ts
+#EXTINF:-1,|ESP| LA LIGA TV FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21023.ts
+#EXTINF:-1,|ES| beIN LA LIGA 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/8260.ts
+#EXTINF:-1,|ES| La Liga 123 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10108.ts
+#EXTINF:-1,|ES| M La Liga  FIBRA SOLO EVENTO
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/92572.ts
+#EXTINF:-1,|ES| M Futbol HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/670.ts
+#EXTINF:-1,|ES| M  Liga de campeones FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10068.ts
+#EXTINF:-1,|ES| M Liga de campeones HD1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10069.ts
+#EXTINF:-1,|ES| M Liga de campeones HD2
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10070.ts
+#EXTINF:-1,|ES| M Liga de campeones HD3
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10127.ts
+#EXTINF:-1,|ES| M Liga de campeones HD4
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10128.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 5
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149969.ts
+#EXTINF:-1,|ES| M Liga de campeones HD5
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10129.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 6
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149970.ts
+#EXTINF:-1,|ES| M Liga de campeones HD6
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10130.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 7
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149971.ts
+#EXTINF:-1,|ES| M Liga de campeones HD7
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10131.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 8
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149972.ts
+#EXTINF:-1,|ES| M Liga de campeones HD8
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10132.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 9
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149973.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 10
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149974.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 11
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149975.ts
+#EXTINF:-1,|ES|  M. Liga de Campeones 12
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149976.ts
+#EXTINF:-1,|ES| M DESPORTES HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10112.ts
+#EXTINF:-1,|ES| Eurosport  HD3
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/122986.ts
+#EXTINF:-1,|ES| Eurosport  HD4
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/122987.ts
+#EXTINF:-1,|ES| Eurosport  HD5
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/122988.ts
+#EXTINF:-1,|ES| Eurosport  HD6
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149965.ts
+#EXTINF:-1,|ES| Eurosport  HD7
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149966.ts
+#EXTINF:-1,|ES| Eurosport  HD8
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149967.ts
+#EXTINF:-1,|ES| Eurosport  HD9
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/149968.ts
+#EXTINF:-1,|ES| M DEPORTES 1 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21019.ts
+#EXTINF:-1,|ES| M DEPORTES 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21018.ts
+#EXTINF:-1,ES MOVISTAR FORMULA 1 UHD 4K
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/92653.ts
+#EXTINF:-1,|ES| M  Depo 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/662.ts
+#EXTINF:-1,|ES| M Depo 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/661.ts
+#EXTINF:-1,|ES| M  F1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/644.ts
+#EXTINF:-1,|ES| DAZNT  FORMULA 1 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21015.ts
+#EXTINF:-1,|ES| DAZNT FORMULA 1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2598.ts
+#EXTINF:-1,|ES| M  MotoGP HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/642.ts
+#EXTINF:-1,|ES| M GOLF FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21013.ts
+#EXTINF:-1,|ES| M Golf HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/657.ts
+#EXTINF:-1,|ES| Eurosport 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10101.ts
+#EXTINF:-1,|ES| Eurosport 1 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21027.ts
+#EXTINF:-1,|ES| Eurosport 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10100.ts
+#EXTINF:-1,|ES| ESPORT 3 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10098.ts
+#EXTINF:-1,|ES| GOL TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2594.ts
+#EXTINF:-1,|ES| Barca TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/672.ts
+#EXTINF:-1,|ES| BETIS CF TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/92651.ts
+#EXTINF:-1,|ES| Real Madrid TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/673.ts
+#EXTINF:-1,|ES| SEVILLA CF TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/92649.ts
+#EXTINF:-1,|ES| TELE DEPORTE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2604.ts
+#EXTINF:-1,|ES| TELEDEPORTE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10124.ts
+#EXTINF:-1,FOOTTERS 1 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/97258.ts
+#EXTINF:-1,FOOTTERS 2 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/97259.ts
+#EXTINF:-1,FOOTTERS 3 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/97260.ts
+#EXTINF:-1,FOOTTERS 4 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/97261.ts
+#EXTINF:-1,FOOTTERS 5 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/97262.ts
+#EXTINF:-1,FOOTTERS 6 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/97263.ts
+#EXTINF:-1,FOOTTERS 7 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130552.ts
+#EXTINF:-1,FOOTTERS 8 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130553.ts
+#EXTINF:-1,FOOTTERS 9 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130554.ts
+#EXTINF:-1,FOOTTERS 10 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130555.ts
+#EXTINF:-1,FOOTTERS 11 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130556.ts
+#EXTINF:-1,FOOTTERS 12 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130557.ts
+#EXTINF:-1,FOOTTERS 13 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130558.ts
+#EXTINF:-1,FOOTTERS 14 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130559.ts
+#EXTINF:-1,FOOTTERS 15 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130560.ts
+#EXTINF:-1,FOOTTERS 16 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130561.ts
+#EXTINF:-1,FOOTTERS 17 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130562.ts
+#EXTINF:-1,FOOTTERS 18 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130563.ts
+#EXTINF:-1,FOOTTERS 19 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130564.ts
+#EXTINF:-1,FOOTTERS 20 FHD (Solo Eventos)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/130565.ts
+#EXTINF:-1,|ES| EVENTO 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89840.ts
+#EXTINF:-1,|ES| EVENTO 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/89843.ts
+#EXTINF:-1,|ES| Baby TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2585.ts
+#EXTINF:-1,|ES| Boing HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10089.ts
+#EXTINF:-1,|ES| Canal Panda HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/659.ts
+#EXTINF:-1,|ES| Clan TVE
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2595.ts
+#EXTINF:-1,|ES| Disney +
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10113.ts
+#EXTINF:-1,|ES| Disney Channel FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21028.ts
+#EXTINF:-1,|ES| Disney Channel HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/678.ts
+#EXTINF:-1,|ES| Disney Junior
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/649.ts
+#EXTINF:-1,|ES| Disney XD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/648.ts
+#EXTINF:-1,|ES| DreamWorks
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116320.ts
+#EXTINF:-1,|ES| Nick Junior
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/686.ts
+#EXTINF:-1,|ES| NIckelodeon FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21005.ts
+#EXTINF:-1,|ES| Nickelodeon HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/679.ts
+#EXTINF:-1,|ES| Nat Geo WILD FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21007.ts
+#EXTINF:-1,|ES| Nat Geo WILD HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/674.ts
+#EXTINF:-1,|ES| National Geographic FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21006.ts
+#EXTINF:-1,|ES| National Geographic
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/647.ts
+#EXTINF:-1,|ES| Discovery Channel
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/675.ts
+#EXTINF:-1,|ES| HISTORIA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2596.ts
+#EXTINF:-1,|ES| BLAZE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10088.ts
+#EXTINF:-1,|ES| Canal Cocina HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2593.ts
+#EXTINF:-1,|ES| Canal Decasa
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/12478.ts
+#EXTINF:-1,|ES| Caza y Pesca FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21032.ts
+#EXTINF:-1,|ES| Caza y Pesca HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/676.ts
+#EXTINF:-1,|ES| CAZAVISION TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/92650.ts
+#EXTINF:-1,|ES| IBERALIA TV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2612.ts
+#EXTINF:-1,|ES| ODISEA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10120.ts
+#EXTINF:-1,|ES| VIAJAR FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/20999.ts
+#EXTINF:-1,|ES| VIAJAR HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2617.ts
+#EXTINF:-1,|ES| M  AcciónHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/665.ts
+#EXTINF:-1,|ES| M  Estrenos HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/663.ts
+#EXTINF:-1,|ES| M Estrenos HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/664.ts
+#EXTINF:-1,|ES| M Crimen HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116939.ts
+#EXTINF:-1,|ES| M Comedia HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/668.ts
+#EXTINF:-1,|ES| M DCine HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/660.ts
+#EXTINF:-1,|ES| M Drama HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10114.ts
+#EXTINF:-1,|ES| M Series HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10116.ts
+#EXTINF:-1,|ES| M Accion FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21021.ts
+#EXTINF:-1,|ES| M ComediaFHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21020.ts
+#EXTINF:-1,|ES| M Drama FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21017.ts
+#EXTINF:-1,|ES| M Estrenos FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21016.ts
+#EXTINF:-1,|ES| M Series FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21010.ts
+#EXTINF:-1,|ES| M Seriesmania FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21009.ts
+#EXTINF:-1,|ES| M Cine Doc and Roll HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10111.ts
+#EXTINF:-1,|ES| Movistar Seriesmania HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10117.ts
+#EXTINF:-1,|ES| 0 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/11032.ts
+#EXTINF:-1,|ESP| 0 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21042.ts
+#EXTINF:-1,|ES| Calle 13
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/641.ts
+#EXTINF:-1,|ES| Calle 13 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21033.ts
+#EXTINF:-1,|ES| Cine Espaæol HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2591.ts
+#EXTINF:-1,|ES| Cine Espaæol FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21008.ts
+#EXTINF:-1,|ES| Comedy Central
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/687.ts
+#EXTINF:-1,|ES| Comedy Central FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21031.ts
+#EXTINF:-1,|ES| Cosmo
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2708.ts
+#EXTINF:-1,|ES| Cosmo FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21030.ts
+#EXTINF:-1,|ES| Ubeat HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116946.ts
+#EXTINF:-1,|ES| VH1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116947.ts
+#EXTINF:-1,|ES| Fox HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/646.ts
+#EXTINF:-1,|ES| Fox  FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21026.ts
+#EXTINF:-1,|ES| Fox Life HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/645.ts
+#EXTINF:-1,|ES| Fox Life  FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21025.ts
+#EXTINF:-1,|ES| Canal+ Series XStra
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/658.ts
+#EXTINF:-1,|ES| DARK HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116941.ts
+#EXTINF:-1,|ES| Factoría de Ficción HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116944.ts
+#EXTINF:-1,|ES| Hollywood HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2597.ts
+#EXTINF:-1,|ES| Hollywood FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21024.ts
+#EXTINF:-1,|ES| TNT HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/666.ts
+#EXTINF:-1,|ES| TNT FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21001.ts
+#EXTINF:-1,|ES| TCM HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2602.ts
+#EXTINF:-1,|ES| TCM FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21003.ts
+#EXTINF:-1,|ES| Syfy HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2608.ts
+#EXTINF:-1,|ESP| Syfy FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/21004.ts
+#EXTINF:-1,|ES| Paramaount Channel HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/10121.ts
+#EXTINF:-1,|ES| Paramount Channel HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/2601.ts
+#EXTINF:-1,|ES| M Alquiler 1 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/680.ts
+#EXTINF:-1,|ES| M Alquiler 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/681.ts
+#EXTINF:-1,|ES| M Alquiler 3 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/682.ts
+#EXTINF:-1,|ES| M Alquiler 4 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/683.ts
+#EXTINF:-1,|ES| M Alquiler 5 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/684.ts
+#EXTINF:-1,|ES| M Alquiler 6 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/685.ts
+#EXTINF:-1,|ES| M Alquiler 7 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57894.ts
+#EXTINF:-1,|ES| M Alquiler 8 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57895.ts
+#EXTINF:-1,|ES| M Alquiler 9 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57896.ts
+#EXTINF:-1,|ES| M Alquiler 10 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57897.ts
+#EXTINF:-1,|ES| M Alquiler 11 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57898.ts
+#EXTINF:-1,|ES| M Alquiler 12 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57899.ts
+#EXTINF:-1,|ES| M Alquiler 13 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57900.ts
+#EXTINF:-1,|ES| M Alquiler 14 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57901.ts
+#EXTINF:-1,|ES| M Alquiler 15 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57902.ts
+#EXTINF:-1,|ES| M Alquiler 16 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57903.ts
+#EXTINF:-1,|ES| M Alquiler 17 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/57904.ts
+#EXTINF:-1,--------| SPAIN |--------
+----------%20|SP|%20SPAIN%20HEVC%20---------
+#EXTINF:-1,|HEVC| TVE INTERNACIONAL HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116997.ts
+#EXTINF:-1,|HEVC| LA 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116998.ts
+#EXTINF:-1,|HEVC| LA 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116999.ts
+#EXTINF:-1,|HEVC| ANTENA 3 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117000.ts
+#EXTINF:-1,|HEVC| CUATRO HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117001.ts
+#EXTINF:-1,|HEVC| TELECINCO HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117002.ts
+#EXTINF:-1,|HEVC| LA SEXTA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117003.ts
+#EXTINF:-1,|HEVC| CANAL SUR A.
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117004.ts
+#EXTINF:-1,|HEVC| NOVA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117005.ts
+#EXTINF:-1,|HEVC| CANAL 24 HORAS
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117006.ts
+#EXTINF:-1,|HEVC| CANAL ORBE21
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117007.ts
+#EXTINF:-1,|HEVC| 24 HORAS
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117008.ts
+#EXTINF:-1,|HEVC| TVGA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117009.ts
+#EXTINF:-1,|HEVC| FDF
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117010.ts
+#EXTINF:-1,|HEVC| CLAN TVE
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117011.ts
+#EXTINF:-1,|HEVC| HOLLYWOOD HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117012.ts
+#EXTINF:-1,|HEVC| IBERALIA TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117013.ts
+#EXTINF:-1,|HEVC| MEGA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117014.ts
+#EXTINF:-1,|HEVC| #VAMOS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117015.ts
+#EXTINF:-1,|HEVC| XTRM HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117016.ts
+#EXTINF:-1,|HEVC| ATRE SERIES HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117017.ts
+#EXTINF:-1,|HEVC| NEOX
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117018.ts
+#EXTINF:-1,--------| KIDS |--------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1,|HEVC| BABY TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117020.ts
+#EXTINF:-1,|HEVC| BOING
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117021.ts
+#EXTINF:-1,|HEVC| CANAL PANDA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117022.ts
+#EXTINF:-1,|HEVC| COMEDY CENTRAL HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117023.ts
+#EXTINF:-1,|HEVC| DISNEY+
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117026.ts
+#EXTINF:-1,|HEVC| DISNEY CH HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117024.ts
+#EXTINF:-1,|HEVC| DISNEY JR
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117025.ts
+#EXTINF:-1,|HEVC| NICK/MTV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117028.ts
+#EXTINF:-1,|HEVC| NICKELODEON HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117029.ts
+#EXTINF:-1,|HEVC| NICK JR
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117027.ts
+#EXTINF:-1,----| ENTERTAINMENT |----
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1,|HEVC| FOX HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117031.ts
+#EXTINF:-1,|HEVC| FOX LIFE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117032.ts
+#EXTINF:-1,|HEVC| 0 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117033.ts
+#EXTINF:-1,|HEVC| AMC HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117034.ts
+#EXTINF:-1,|HEVC| ARAGON TV INT
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117035.ts
+#EXTINF:-1,|HEVC| AXN
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117036.ts
+#EXTINF:-1,|HEVC| AXN HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117037.ts
+#EXTINF:-1,|HEVC| AXN WHITE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117038.ts
+#EXTINF:-1,|HEVC| SYFY HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117039.ts
+#EXTINF:-1,|HEVC| TCM HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117040.ts
+#EXTINF:-1,|HEVC| TNT HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117041.ts
+#EXTINF:-1,|HEVC| BE MAD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117042.ts
+#EXTINF:-1,|HEVC| BLAZE
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117043.ts
+#EXTINF:-1,|HEVC| CALLE 13 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117044.ts
+#EXTINF:-1,|HEVC| CANAL COCINA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117045.ts
+#EXTINF:-1,|HEVC| CANAL DECASA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117046.ts
+#EXTINF:-1,|HEVC| CANAL ODISEA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117047.ts
+#EXTINF:-1,|HEVC| CAZAYPESCA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117048.ts
+#EXTINF:-1,|HEVC| CLASSICA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117049.ts
+#EXTINF:-1,|HEVC| COSMO HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117050.ts
+#EXTINF:-1,|HEVC| CRIMEN INVES
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117051.ts
+#EXTINF:-1,|HEVC| DIVINITY
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117052.ts
+#EXTINF:-1,|HEVC| ENERGY
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117053.ts
+#EXTINF:-1,-------| SPORTS |-------
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117054.ts
+#EXTINF:-1,|HEVC| M.LCAMPEONES
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117055.ts
+#EXTINF:-1,|HEVC| BEIN LALIGA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117058.ts
+#EXTINF:-1,|HEVC| BEIN LALIGA1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117059.ts
+#EXTINF:-1,|HEVC| EUROSPORT1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117060.ts
+#EXTINF:-1,|HEVC| EUROSPORT 1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117061.ts
+#EXTINF:-1,|HEVC| EUROSPORT 2
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117062.ts
+#EXTINF:-1,|HEVC| GOL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117063.ts
+#EXTINF:-1,|HEVC| BAR TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117064.ts
+#EXTINF:-1,|HEVC| R.MADRID TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117065.ts
+#EXTINF:-1,|HEVC| TOROS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117066.ts
+#EXTINF:-1,|HEVC| DAZNT  FORMULA1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117067.ts
+#EXTINF:-1,|HEVC| DAZNT FORMULA1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117068.ts
+#EXTINF:-1,|HEVC| M.GOLF HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117069.ts
+#EXTINF:-1,|HEVC| DAZN 1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117071.ts
+#EXTINF:-1,|HEVC| DAZN 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117072.ts
+#EXTINF:-1,|HEVC| M. LALIGA 1 HD (SOLO EVENTO)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117073.ts
+#EXTINF:-1,|HEVC| M. LALIGA 2 HD (SOLO EVENTO)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117074.ts
+#EXTINF:-1,|HEVC| M. LALIGA 3 HD (SOLO EVENTO)
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117075.ts
+#EXTINF:-1,------| MOVIESTAR |------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1,|HEVC| M.ACCION HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117077.ts
+#EXTINF:-1,|HEVC| M.CINE ESPANOL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117078.ts
+#EXTINF:-1,|HEVC| M.COMEDIA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117079.ts
+#EXTINF:-1,|HEVC| M.DRAMA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117080.ts
+#EXTINF:-1,|HEVC| M.ESTRENOS HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117081.ts
+#EXTINF:-1,|HEVC| M.CINEDOC&ROLL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117082.ts
+#EXTINF:-1,|HEVC| M.CINEDOC&ROLL HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117083.ts
+#EXTINF:-1,|HEVC| M.SERIES HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117084.ts
+#EXTINF:-1,|HEVC| M.SERIESMANIA HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117085.ts
+#EXTINF:-1,-------| SPORTS |-------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1,|HEVC| M. DEPORTES HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117087.ts
+#EXTINF:-1,|HEVC| M.DEPORTES1 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117088.ts
+#EXTINF:-1,|HEVC| TELEDEPORTE
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117089.ts
+#EXTINF:-1,|HEVC| MEZZO
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117090.ts
+#EXTINF:-1,|HEVC| MEZZO LIVE HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117091.ts
+#EXTINF:-1,|HEVC| M.WIMBLEDON HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117092.ts
+#EXTINF:-1,--------| MUSIC |--------
+-----------%20|SP|%20NOTICIAS%20%20HEVC%20------------
+#EXTINF:-1,|HEVC| MTV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117094.ts
+#EXTINF:-1,|HEVC| MTV DANCE
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117095.ts
+#EXTINF:-1,|HEVC| MTV ESPA¹A
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117096.ts
+#EXTINF:-1,|HEVC| MTV HITS
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117097.ts
+#EXTINF:-1,|HEVC| SUNDANCE TV
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117098.ts
+#EXTINF:-1,-----| DOCUMENTARY |-----
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117099.ts
+#EXTINF:-1,|HEVC| DISCOVERY
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117100.ts
+#EXTINF:-1,|HEVC| NAT GEO HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117101.ts
+#EXTINF:-1,|HEVC| NAT GEO WILD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117102.ts
+#EXTINF:-1,|HEVC| NAT GEO WILD HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117103.ts
+#EXTINF:-1,|HEVC| PARAMOUNT
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117104.ts
+#EXTINF:-1,|HEVC| VH1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117105.ts
+#EXTINF:-1,|HEVC| VIAJAR HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117106.ts
+#EXTINF:-1,|HEVC| HISTORIA
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/117107.ts
+#EXTINF:-1,|HEVC| RTP 1 HD 
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119469.ts
+#EXTINF:-1,|HEVC| RTP 2 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119470.ts
+#EXTINF:-1,|HEVC| RTP 3 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119471.ts
+#EXTINF:-1,|HEVC| SIC HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119472.ts
+#EXTINF:-1,|HEVC| TVI HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119473.ts
+#EXTINF:-1,|HEVC| TVI 24 HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119474.ts
+#EXTINF:-1,|HEVC| TVI MOSAICO HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119543.ts
+#EXTINF:-1,|HEVC| CMTV HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119476.ts
+#EXTINF:-1,|HEVC| PORTO CANAL HD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/119477.ts
+#EXTINF:-1,-----| DOCUMENTARY |-----
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116422.ts
+#EXTINF:-1,|LAM| Nat Geo FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29369.ts
+#EXTINF:-1,|LAM| Nat Geo Kids FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29370.ts
+#EXTINF:-1,|LAM| Nat Geo Kids
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29371.ts
+#EXTINF:-1,|LAM| Nat Geo
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29372.ts
+#EXTINF:-1,|LAM| Nat Geo Mundo FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29373.ts
+#EXTINF:-1,|LAM| Nat Geo WILD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29374.ts
+#EXTINF:-1,|LAM| Nat Geo Wild FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29375.ts
+#EXTINF:-1,|LAM| Discovery Channel FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6574.ts
+#EXTINF:-1,|LAM| Discovery Channel
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6531.ts
+#EXTINF:-1,|LAM| Discovery Civilization
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6530.ts
+#EXTINF:-1,|LAM| Discovery Home Health FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6529.ts
+#EXTINF:-1,|LAM| Discovery Home Health
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6528.ts
+#EXTINF:-1,|LAM| Discovery Kids FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6527.ts
+#EXTINF:-1,|LAM| Discovery Kids
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6526.ts
+#EXTINF:-1,|LAM| Discovery Science
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6525.ts
+#EXTINF:-1,|LAM| Discovery Theater FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6524.ts
+#EXTINF:-1,|LAM| Discovery Theater
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6523.ts
+#EXTINF:-1,|LAM| Discovery Turbo FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6522.ts
+#EXTINF:-1,|LAM| Discovery Turbo
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6521.ts
+#EXTINF:-1,|LAM| Discovery World FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6520.ts
+#EXTINF:-1,|LAM| Discovery World
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/6519.ts
+#EXTINF:-1,|LAM| Investigation Discovery FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29349.ts
+#EXTINF:-1,|LAM| Investigation Discovery
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29350.ts
+#EXTINF:-1,|LAM| History FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29345.ts
+#EXTINF:-1,|LAM| History 2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29344.ts
+#EXTINF:-1,|LAM| H2 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29332.ts
+#EXTINF:-1,|LAM| H2
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29333.ts
+#EXTINF:-1,-------| SPORTS |-------
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/116425.ts
+#EXTINF:-1,|LAM| Fox Sports 1 FHD
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29317.ts
+#EXTINF:-1,|LAM| Fox Sports 1
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/29318.ts
+#EXTINF:-1,|LATIN| Discovery Channel HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141896.ts
+#EXTINF:-1,|LATIN| Discovery Home & Health HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141895.ts
+#EXTINF:-1,|LATIN| Discovery ID HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141894.ts
+#EXTINF:-1,|LATIN| Discovery Kids HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141893.ts
+#EXTINF:-1,|LATIN| Discovery Theater FHD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141892.ts
+#EXTINF:-1,|LATIN| Discovery Turbo HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141891.ts
+#EXTINF:-1,|LATIN| Discovery World HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141890.ts
+#EXTINF:-1,|LATIN| Disney Chanel FHD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141889.ts
+#EXTINF:-1,|LATIN| Disney Channel Sur HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141888.ts
+#EXTINF:-1,|LATIN| Disney Junior CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141887.ts
+#EXTINF:-1,|LATIN| Disney Junior HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141886.ts
+#EXTINF:-1,|LATIN| Disney XD FHD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141884.ts
+#EXTINF:-1,|LATIN| Disney XD HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141885.ts
+#EXTINF:-1,|LATIN| E! Entertainment FHD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141882.ts
+#EXTINF:-1,|LATIN| E! Entertainment HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141883.ts
+#EXTINF:-1,|LATIN| Ecuavisa Internacional EC
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141701.ts
+#EXTINF:-1,|LATIN| Ecuavisa Quito HD  EC
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141695.ts
+#EXTINF:-1,|LATIN| El Canal Del Futbol FHD EC
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141705.ts
+#EXTINF:-1,|LATIN| El Canal Del Futbol HD EC
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141704.ts
+#EXTINF:-1,|LATIN| EL CANAL DEL FUTBOL SD EC
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141703.ts
+#EXTINF:-1,|LATIN| El Gourmet HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141881.ts
+#EXTINF:-1,|LATIN| El Nueve HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141880.ts
+#EXTINF:-1,|LATIN| El Pinguino TV HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141879.ts
+#EXTINF:-1,|LATIN| El trece HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141878.ts
+#EXTINF:-1,|LATIN| Encuentro HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141877.ts
+#EXTINF:-1,|LATIN| ESPN 2 Latin Sur HD CHL
+http://grtsa.sralm87.com:2082/live/Mohamed77_024038/3NeI9osL/141875.ts
+
+
+
+
+
+
+
+
+
+
+
+
